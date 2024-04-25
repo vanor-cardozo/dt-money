@@ -44,5 +44,5 @@ Além das tecnologias mencionadas, foram aplicados os seguintes conceitos fundam
 ---
 
 <p align="center">
-    <img alt="Rodapé com imagem e nome do autor Vanor Cardozo" title="eSports" src="footer_vanor_eSports.png"/>
+    <img alt="Rodapé com imagem e nome do autor Vanor Cardozo" title="eSports" src="banner_readme_dt_money.png"/>
 </p>
