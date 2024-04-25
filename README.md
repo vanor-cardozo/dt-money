@@ -11,7 +11,7 @@ DT Money - O dt-money é uma aplicação de controle financeiro que permite cada
 - Filtragem de transações por categoria
      
 ## 🎨 Design
-<img alt="funcionamento do app Web" title="web" src="eSports_Web.gif"/>
+<img src="dt_money_video.gif" />
 
 
 ## 🚀 Como executar o projeto
