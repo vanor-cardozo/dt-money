@@ -3,7 +3,7 @@
 
 DT Money - O dt-money é uma aplicação de controle financeiro que permite cadastrar suas receitas e despesas, fornecendo um saldo total atualizado. Além disso, oferece a funcionalidade de buscar transações por categorias.
 
-<img src="dt_money_video2.gif" />
+<img src="dt_money_video.gif" />
 
 ## ⚙️ Funcionalidades
 
